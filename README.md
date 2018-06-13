@@ -8,7 +8,7 @@ To compile a book in the current folder you execute:
 
 A gitlab ci/cd config may look like:
 
-```
+```yml
 image: coenvl/gitbook-calibre
 
 pdf:
